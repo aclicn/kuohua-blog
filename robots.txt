@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aclicn.github.io/kuohua-blog/sitemap.xml
